@@ -1,0 +1,163 @@
+[
+  {
+    "id": 1,
+    "artist": "One Republic",
+    "name": "Counting Stars",
+    "img": "https://i1.sndcdn.com/artworks-000040814493-eu3kr3-t500x500.jpg",
+    "src": "./music/CountingStars.mp3",
+    "playing": "Currently playing..."
+  },
+  {
+    "id": 2,
+    "artist": "XXXTENTACION",
+    "name": "Changes",
+    "img": "https://townsquare.media/site/812/files/2018/03/xxxtentacion-sad-changes-cover.jpg",
+    "src": "./music/Changes.mp3",
+    "playing": "Currently playing..."
+  },
+  {
+    "id": 3,
+    "artist": "Metalica",
+    "name": "Enter Sandman",
+    "img": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/87e4972b-32d9-4d71-a465-3a7baaea02cc/d3jal7z-2913141f-d677-4c44-ba5e-7c6d90cf9e9a.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOiIsImlzcyI6InVybjphcHA6Iiwib2JqIjpbW3sicGF0aCI6IlwvZlwvODdlNDk3MmItMzJkOS00ZDcxLWE0NjUtM2E3YmFhZWEwMmNjXC9kM2phbDd6LTI5MTMxNDFmLWQ2NzctNGM0NC1iYTVlLTdjNmQ5MGNmOWU5YS5wbmcifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6ZmlsZS5kb3dubG9hZCJdfQ.vYs-VyC_13CVwRiMqVYtTbR92PBtOCWZgBB9x7YhiiU",
+    "src": "./music/EnterSandman.mp3",
+    "playing": "Currently playing..."
+  },
+  {
+    "id": 4,
+    "artist": "XXXTENTACION",
+    "name": "Sad",
+    "img": "https://townsquare.media/site/812/files/2018/03/xxxtentacion-sad-changes-cover.jpg",
+    "src": "./music/Sad.mp3",
+    "playing": "Currently playing..."
+  },
+  {
+    "id": 5,
+    "artist": "XXXTENTACION",
+    "name": "Fuck Love",
+    "img": "https://i.pinimg.com/originals/f6/37/90/f6379063893cfb6f264ec8b92070461e.jpg",
+    "src": "./music/FuckLove.mp3",
+    "playing": "Currently playing..."
+  },
+  {
+    "id": 6,
+    "artist": "Ed Sheeran",
+    "name": "Photograph",
+    "img": "https://i1.sndcdn.com/artworks-668p4gbrxay3-0-t500x500.jpg",
+    "src": "./music/Photograph.mp3",
+    "playing": "Currently playing..."
+  },
+  {
+    "id": 7,
+    "artist": "Drake",
+    "name": "God's Plan",
+    "img": "https://i.ytimg.com/vi/D5Po9C68gTA/maxresdefault.jpg",
+    "src": "./music/GodsPlan.mp3",
+    "playing": "Currently playing..."
+  },
+  {
+    "id": 8,
+    "artist": "The Weekend",
+    "name": "Pray for me",
+    "img": "https://i.redd.it/nd1x94yfcvd01.jpg",
+    "src": "./music/PrayForMe.mp3",
+    "playing": "Currently playing..."
+  },
+  {
+    "id": 9,
+    "artist": "Dominic Fike",
+    "name": "3 Nights",
+    "img": "https://i.ytimg.com/vi/0xwzWgjy3Sk/maxresdefault.jpg",
+    "src": "./music/ThreeNights.mp3",
+    "playing": "Currently playing..."
+  },
+  {
+    "id": 10,
+    "artist": "Drake",
+    "name": "Passionfruit",
+    "img": "https://i1.sndcdn.com/artworks-000383534739-k04zep-t500x500.jpg",
+    "src": "./music/PassionFruit.mp3",
+    "playing": "Currently playing..."
+  },
+  {
+    "id": 11,
+    "artist": "Post Malone",
+    "name": "Circles",
+    "img": "https://images.genius.com/d89bfa02744ef691096746045ebd62a3.939x939x1.jpg",
+    "src": "./music/Circles.mp3",
+    "playing": "Currently playing..."
+  },
+  {
+    "id": 12,
+    "artist": "Travis Scott",
+    "name": "Yosemite",
+    "img": "https://static.highsnobiety.com/thumbor/-TZ343zA9N41JEO4aoI2GhmUr58=/fit-in/800x480/smart/static.highsnobiety.com/wp-content/uploads/2018/11/30214137/travis-scott-yosemite-video-feature.jpg",
+    "src": "./music/Yosemite.mp3",
+    "playing": "Currently playing..."
+  },
+  {
+    "id": 13,
+    "artist": "Wegz",
+    "name": "LAQTA",
+    "img": "https://i.ytimg.com/vi/15VrKkUkcPw/maxresdefault.jpg",
+    "src": "./music/Laqta.mp3",
+    "playing": "Currently playing..."
+  },
+  {
+    "id": 14,
+    "artist": "The Weekend",
+    "name": "Save your tears",
+    "img": "https://www.nme.com/wp-content/uploads/2021/01/The-Weeknd.jpg",
+    "src": "./music/SaveYourTears.mp3",
+    "playing": "Currently playing..."
+  },
+  {
+    "id": 15,
+    "artist": "Eden",
+    "name": "Circles",
+    "img": "https://i.ytimg.com/vi/fP8ElyrwtEc/maxresdefault.jpg",
+    "src": "./music/CirclesEden.mp3",
+    "playing": "Currently playing..."
+  },
+  {
+    "id": 16,
+    "artist": "Shabjdeed",
+    "name": "Had El Haki 3eh",
+    "img": "https://i1.sndcdn.com/artworks-000406222473-pkkdpe-t500x500.jpg",
+    "src": "./music/HadElHaki3eh.mp3",
+    "playing": "Currently playing..."
+  },
+  {
+    "id": 17,
+    "artist": "MyKey",
+    "name": "Was It Something I said",
+    "img": "https://images.genius.com/16c5c73cce45e45d7427f10334940dcf.1000x1000x1.jpg",
+    "src": "./music/WasItSomethingISaid.mp3",
+    "playing": "Currently playing..."
+  },
+  {
+    "id": 18,
+    "artist": "Synaptic X Nather",
+    "name": "Khatry El Maksoor",
+    "img": "https://i.ytimg.com/vi/R-Cs8NEi5I0/maxresdefault.jpg",
+    "src": "./music/KhatryElMaksoor.mp3",
+    "playing": "Currently playing..."
+  },
+  {
+    "id": 19,
+    "artist": "Desiigner",
+    "name": "Timmy Turner",
+    "img": "https://img.discogs.com/-VlamVEnsZw1HwKW2OFjjrfDfUM=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-10776869-1584202582-3973.jpeg.jpg",
+    "src": "./music/TimmyTurner.mp3",
+    "playing": "Currently playing..."
+  },
+  {
+    "id": 20,
+    "artist": "The Weekend",
+    "name": "Blinding Lights",
+    "img": "https://www.rollingstone.com/wp-content/uploads/2020/02/TheWeeknd.jpg?resize=1800,1200&w=1800",
+    "src": "./music/BlindingLights.mp3",
+    "playing": "Currently playing..."
+  }
+
+]

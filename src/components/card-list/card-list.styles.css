@@ -1,0 +1,19 @@
+.card-list {
+    width: 85vw;
+    margin: 0 auto 10em auto;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    grid-gap: 15px;
+
+  }
+
+  @media only screen and (max-width: 700px) {
+    .card-list {
+      min-width: 55vw;
+      margin: 0 auto 10em auto;
+      display: grid;
+      grid-template-columns: 1fr;
+      grid-gap: 5px;
+    }
+  }
+

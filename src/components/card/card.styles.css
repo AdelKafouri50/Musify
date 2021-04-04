@@ -1,0 +1,159 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@200&family=DotGothic16&family=Orbitron:wght@400&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Advent+Pro:wght@600&family=Caveat:wght@700&family=Fredoka+One&family=Lobster+Two:ital,wght@1,700&family=Permanent+Marker&display=swap');
+.card-container {
+    display: flex;
+    flex-direction: column;
+    background: rgb(0,0,0);
+    background: linear-gradient(90deg, rgba(0,0,0,1) 0%, rgba(33,30,29,1) 50%, rgba(0,0,0,1) 100%);
+    border: 2px solid rgb(17, 17, 17);
+    border-radius: 5px;
+    -moz-osx-font-smoothing: grayscale;
+    backface-visibility: hidden;
+    transform: translateZ(0);
+    transition: transform 0.25s ease-out;
+    font-family: 'Roboto';
+    font-weight: 200;
+    border-radius: 1em;
+    height: 250px;
+    margin: 0.5em;
+    text-transform: capitalize;
+    cursor: pointer;
+  }
+
+  .card-container:hover{
+    transform: translateY(-10px);
+  }
+
+  .songName{
+    font-size: 1em;
+    color:rgb(190, 190, 190);
+    font-family: 'Advent Pro';
+    font-weight: 600;
+    padding: 0px;
+
+  }
+
+
+  .songArtist{
+    font-size: 0.5em;
+    color:rgb(112, 112, 112);
+    font-family: 'Advent Pro';
+    font-weight: 600;
+    padding: 0px;
+
+  }
+
+  img{
+    width: 100%;
+    height: 72.5%;
+    margin-left: 0;
+    border-radius: 15px 15px 0 0;
+    margin-bottom: 5%;
+    border-bottom: 2px solid rgb(17, 17, 17);
+  }
+
+
+
+  .buttonCointainer{
+    display: flex;
+    margin-bottom: 20px;
+  }
+  
+  .btntrigger{
+    padding: 0.2em 1em;
+    margin: 0 10px 10px 10px;
+    color: rgb(197, 92, 43);
+    background-color: rgb(253, 191, 162, 0);
+    border-radius: 5em;
+    border: none;
+    font-size: 1em;
+    font-weight: bold;
+    outline: none;
+    cursor: pointer;
+  }
+
+  .btntrigger:hover {
+    transform: scale(1.3);
+    color: rgb(255, 218, 97);
+    z-index: 1;
+  }
+
+  .currentlyPlaying{
+    font-size: 0.5em;
+    display: block;
+  }
+
+
+  @media only screen and (max-width: 600px) {
+    .card-container {
+      display: flex;
+      flex-direction: column;
+      background: rgb(0,0,0);
+      background: linear-gradient(90deg, rgba(0,0,0,1) 0%, rgba(33,30,29,1) 50%, rgba(0,0,0,1) 100%);
+      border-radius: 17px;
+      -moz-osx-font-smoothing: grayscale;
+      backface-visibility: hidden;
+      transform: translateZ(0);
+      transition: transform 0.25s ease-out;
+      color: rgb(197, 92, 43);
+      font-family: 'Roboto';
+      font-weight: 200;
+      font-size: 0.9em;
+    }
+
+ 
+
+    img{
+      width: 100%;
+      height: 55%;
+      margin-left: 0;
+      border-radius: 15px 15px 0 0;
+      margin-bottom: 10%;
+      margin: 0;
+    }
+  
+    .buttonCointainer{
+      display: flex;
+      margin-bottom: 20px;
+    }
+    
+    .btntrigger{
+      padding: 0.2em 1em;
+      margin: 0 10px 10px 10px;
+      color: rgb(197, 92, 43);
+      background-color: rgb(253, 191, 162, 0);
+      border-radius: 5em;
+      border: none;
+      font-size: 1em;
+      font-weight: bold;
+      outline: none;
+      cursor: pointer;
+    }
+
+    .card-container:hover{
+      transform: translateY(-10px);
+    }
+
+    .btntrigger:hover {
+      transform: scale(1.3);
+      z-index: 1;
+    }
+
+    .songArtist{
+      font-size: 0.75em;
+      font-family: 'Advent Pro';
+      font-weight: 600;
+      padding: 0px;
+  
+    }
+
+    .songName{
+      font-size: 0.9em;
+      font-family: 'Advent Pro';
+      font-weight: 600;
+      padding: 0px;
+  
+    }
+  }
+  
+  
